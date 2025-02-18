@@ -320,6 +320,7 @@
 "status.delete-and-redraft" = "Usuń i przeredaguj";
 "status.delete-and-redraft.confirm.post" = "Na pewno chcesz usunąć i przeredagować ten post? Polubienia i podbicia zostaną utracone, a odpowiedzi osierocone.";
 "status.delete-and-redraft.confirm.toot" = "Na pewno chcesz usunąć i przeredagować ten toot? Polubienia i podbicia zostaną utracone, a odpowiedzi osierocone.";
+"status.edit" = "Edytuj toota";
 "status.mute" = "Wycisz rozmowę";
 "status.new-items.post" = "Nowe posty";
 "status.new-items.toot" = "Nowe tooty";
@@ -364,3 +365,4 @@
 "timelines.federated" = "Globalna";
 "toot.action" = "Toot";
 "toot.noun" = "Toot";
+"update.action" = "Zatwierdź edycję";
